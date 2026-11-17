@@ -1,0 +1,2 @@
+Latest_Data_Date,Prediction_Date,Latest_Observed_Price,Predicted_Gold_Price,Model_File,Note
+2025-12-31,2026-01-01,135454.0,135196.558005336,best_gold_model.pkl,Model estimate only; not a guaranteed market price.
